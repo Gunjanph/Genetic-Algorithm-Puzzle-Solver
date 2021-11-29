@@ -9,3 +9,7 @@ Install requirements:
 $ pip install -r requirements.txt
 $ sudo apt-get install python-tk
 ```
+
+# Images
+
+All the input and output images are in the Images folder.
